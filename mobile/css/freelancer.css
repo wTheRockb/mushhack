@@ -459,7 +459,7 @@ border: 3px solid #fff;
 color: #fff;
 overflow: hidden;
 background:#E45D4E;
-width: 30%;
+width: 50%;
 
 }
 
@@ -472,6 +472,8 @@ header {
 
 #portfolio,  #themesOfPreHackAct {
     color:#E45D4E ;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 #about , #themesOfHack, #themesOfPostHack {
@@ -495,6 +497,8 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto
+    width:100%;
+
 }
 
 .map-div{
@@ -506,3 +510,7 @@ header {
 
 }
 
+#theme-text {
+    padding-left: 5px;
+    padding-right: 5px;
+}
